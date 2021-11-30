@@ -1,0 +1,50 @@
+body{
+	margin:0px 0px;
+	font-family: Arial;
+}
+.wrapper{
+	width: 1000px;
+	height: 200px;
+	border: 2px solid #c4c4c4;
+	position: absolute;
+	left:0;
+	right: 0;
+	margin: 0 auto;
+}
+.box{
+	background-color: #c4c4c4;
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	right:40px;
+	top:50px;
+}
+.bigbox{
+	background-color: #c4c4c4;
+	height: 400px;
+	width: 700px;
+	position: absolute;
+	left:300px;
+	right: 0;
+	margin: 250px auto;
+}
+.text{
+	width:1000px;
+	position: absolute;
+	left:0px;
+	right: 0;
+	margin: 720px auto;
+}
+.text2{
+	width:1000px;
+	position: absolute;
+	left:0px;
+	right: 0;
+	margin: 960px auto;
+	text-align: right;
+}
+p{
+	line-height: 24px;
+	size: 20px;
+	color: #000;
+}
